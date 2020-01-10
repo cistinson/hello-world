@@ -1,12 +1,12 @@
-#Vacation Blog 
+# Vacation Blog 
 This is my happy blog with lots of cool stuff
 
-##Food
+## Food
 * Tacos
 * Pizza
 * Soda
 
-###Destinations
+### Destinations
 
 1. Beach
 2. Downtown
