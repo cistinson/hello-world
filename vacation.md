@@ -12,4 +12,4 @@ This is my happy blog with lots of cool stuff
 2. Downtown
 3. Trails
 
-> This is the best vacation ever - Nobody
+> This is the **best** vacation ever - Nobody
